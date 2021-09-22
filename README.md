@@ -27,6 +27,8 @@ private void OnView_CurrentChanged(object sender, EventArgs e)
 
 ![Grouing without sorting  in SfDataGrid](image.png)
 
+KB article - [How to skip the sorting when group the columns in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12027/how-to-skip-the-sorting-when-group-the-columns-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
 
